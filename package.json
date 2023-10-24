@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "base64-img": "^1.0.1",
+    "puppeteer": "^21.4.0"
+  }
+}
